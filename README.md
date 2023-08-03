@@ -1,4 +1,4 @@
-# Matlab-Simulation-of-Phase-Locked-Loop
+# Matlab Simulation of Phase Locked Loop
 This is a MATLAB Simulation of 3 phase inverter PLL based on Youtube videos uploaded by Tech Simulator.
 
 # Reference Video Link
